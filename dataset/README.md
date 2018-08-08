@@ -28,3 +28,9 @@ We used 1000 datasets in this cased. Those datasets are stored in [case2](https:
 
 ## Case 3: Cell-Penetrating Peptides Prediction  
 
+In this case, we used 2 dataset that are stored in [case3](https://github.com/rezafaisal/ProteinSequenceClassificationProject/blob/master/dataset/case3/) folder.
+
+|   No    | Dataset     | # positive | # negative |
+| ------- | ----------- | ---------- | ---------- |
+| 1       | CPP924      | 462        | 462        |
+| 2       | CPPsite3    | 187        | 187        |
