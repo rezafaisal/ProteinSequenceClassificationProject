@@ -17,6 +17,8 @@ We use dataset [Case1.Experiment2a.csv](https://github.com/rezafaisal/ProteinSeq
 | 1       | NR & Non NR | 159     | 500        |
 
 ### Experiment 2b: Identifying NR Families
+We use dataset [Case1.Experiment2b.csv](https://github.com/rezafaisal/ProteinSequenceClassificationProject/blob/master/dataset/Case1.Experiment2b.csv) in Identifying NR Families experiment.
+
 |   No    | Dataset     |  # NR1  |  # NR2  |  # NR3  |  # NR4 |  # NR5 |  # NR6 |  # NR7 |
 | ------- | ----------- | ------- | ------- | ------- | -------| -------| -------| -------|
 | 1       | NR Families | 50      | 36      | 37      | 7      | 12     | 5      | 12     |
