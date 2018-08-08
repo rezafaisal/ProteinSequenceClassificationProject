@@ -10,7 +10,7 @@ The dataset of this experiment is stored in [Case1.Experiment1.csv](https://gith
 | 1       | NR Families | 50      | 36      | 37      | 12     |
 
 ### Experiment 2a: Identifying NR & Non-NR
-We use dataset [Case1.Experiment2a.csv] (https://github.com/rezafaisal/ProteinSequenceClassificationProject/blob/master/dataset/Case1.Experiment2a.csv) in Identifying NR & Non-NR experiment.
+We use dataset [Case1.Experiment2a.csv](https://github.com/rezafaisal/ProteinSequenceClassificationProject/blob/master/dataset/Case1.Experiment2a.csv) in Identifying NR & Non-NR experiment.
 |   No    | Dataset     |  # NR   |  # Non NR  |
 | ------- | ----------- | ------- | ---------- |
 | 1       | NR & Non NR | 159     | 500        |
