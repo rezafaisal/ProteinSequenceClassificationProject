@@ -26,3 +26,10 @@ The purpose of generating additional segments is to get more information. This i
 2. Sequence information, few segment will give rich sequence information.
 ![problem](https://github.com/rezafaisal/ProteinSequenceClassificationProject/blob/master/images/05.JPG)
 
+And, these are our research question:
+1. What is the optimal way to create additional segments?
+   a. How many segment which is appropriate?
+   b. Is it possible to get rich position and also sequence information?
+2. Can feature generated from additional inputs help to improve the accuracy prediction of the model?
+3. Does this approach work on all protein classification problems?
+
