@@ -20,3 +20,9 @@ Second, Combination of alignment free and alignment-based descriptor.
 In existing reports, researchers only used an original sequence as the input to protein descriptor. We generate new feature representation by using additional segments.
 ![what is new](https://github.com/rezafaisal/ProteinSequenceClassificationProject/blob/master/images/04.JPG)
 
+## Research Questions
+The purpose of generating additional segments is to get more information. This illustration show the relation between number of additional segment and information. There are 2 type of information:
+1. Position information, many segments will give rich position information.
+2. Sequence information, few segment will give rich sequence information.
+![problem](https://github.com/rezafaisal/ProteinSequenceClassificationProject/blob/master/images/05.JPG)
+
