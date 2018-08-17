@@ -15,3 +15,8 @@ There are two methods to generate new feature representation in active researche
 
 Second, Combination of alignment free and alignment-based descriptor.
 ![alignment free & alignment-based descriptors](https://github.com/rezafaisal/ProteinSequenceClassificationProject/blob/master/images/03.JPG)
+
+## What is new in our approach?
+In existing reports, researchers only used an original sequence as the input to protein descriptor. We generate new feature representation by using additional segments.
+![what is new](https://github.com/rezafaisal/ProteinSequenceClassificationProject/blob/master/images/04.JPG)
+
