@@ -32,3 +32,13 @@ And, these are our research question:
 3. Does this approach work on all protein classification problems?
 
 ## How to create additional segments
+Our approach has three steps to generate feature representation:
+1. Sanity check of the amino acid types.
+2. Generate additional segments.
+3. Construct feature representation.
+
+### Sanity check of the amino acid types
+
+### Generate additional segments
+
+### Construct feature representation
