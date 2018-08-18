@@ -38,6 +38,18 @@ Our approach has three steps to generate feature representation:
 3. Construct feature representation.
 
 ### Sanity check of the amino acid types
+For the information, Protein descriptor functions in protr package only recognize 20 amino acids. For that reason, we have to eliminate amino acid that are not in these 20 amino acids.
+
+Unrecognize code by protein descriptor function in PROTR:
+* X: undetermined amino acid
+* B: asparagine/N or aspartic acid/D
+* Z: glutamic acid/E or glutamine/Q
+* J: leucine/L or isoleucine/I
+* O: Pyrrolysine (UAG)
+* U: Selenocysteine (UGA)
+
+
+![step-1](https://github.com/rezafaisal/ProteinSequenceClassificationProject/blob/master/images/05.JPG)
 
 ### Generate additional segments
 
