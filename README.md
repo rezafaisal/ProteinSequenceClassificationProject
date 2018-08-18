@@ -31,7 +31,7 @@ And, these are our research question:
 2. Can feature generated from additional inputs help to improve the accuracy prediction of the model?
 3. Does this approach work on all protein classification problems?
 
-## How to create additional segments
+## Method
 Our approach has three steps to generate feature representation:
 1. Sanity check of the amino acid types.
 2. Generate additional segments.
