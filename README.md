@@ -3,7 +3,7 @@
 ## Abstract
 In protein sequence classification research, sequences must be converted into data that are understood by classification algorithms. Protein descriptor is the name of the tool to convert sequence into feature representation. There is two type of protein descriptor: the first is alignment-based descriptor or position-specific descriptor. The second is a position-independent descriptor
 
-<img src="https://github.com/rezafaisal/ProteinSequenceClassificationProject/blob/master/images/01.JPG" width="800">
+<img src="https://github.com/rezafaisal/ProteinSequenceClassificationProject/blob/master/images/01.JPG" width="600">
 
 Position-independent descriptors convert a variable length sequence of protein into fixed length numerical features. These descriptors are useful since they apply to any length of a sequence, however, positional information of subsequence is discarded even though it might have a high contribution to classification performance. To solve this problem, we divided the original sequence into some segments. We generated to kind of segments those are adjacent segments and overlapped segments. Then we calculated the numerical features for them.
 
