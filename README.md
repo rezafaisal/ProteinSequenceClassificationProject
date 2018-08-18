@@ -66,4 +66,4 @@ This is formula if we use a combination of various alignment free descriptors. B
 
 ## Reference
 Improving Protein Sequence Classification Performance Using Adjacent and Overlapped Segments on Existing Protein Descriptors 
-DOI: 10.4236/jbise.2018.116013 [https://doi.org/10.4236/jbise.2018.116013]
+DOI: [10.4236/jbise.2018.116013](https://doi.org/10.4236/jbise.2018.116013)
