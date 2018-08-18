@@ -64,3 +64,6 @@ This is formula if we use only one alignment free descriptor. If z = 2, we will 
 This is formula if we use a combination of various alignment free descriptors. Beside variable z, we also have variable type. For example, z=2 and we use 2 descriptors: AAC & DC.
 ![step-3b](https://github.com/rezafaisal/ProteinSequenceClassificationProject/blob/master/images/09.JPG)
 
+## Reference
+Improving Protein Sequence Classification Performance Using Adjacent and Overlapped Segments on Existing Protein Descriptors 
+DOI: 10.4236/jbise.2018.116013 [https://doi.org/10.4236/jbise.2018.116013]
