@@ -1,2 +1,4 @@
-# ProtSegR: R Package for Generating Segments and Numerical Representation Schemes for Protein Sequences
+# ProtSegR: 
+
+ProtSegR is R Package for Generating Segments and Numerical Representation Schemes for Protein Sequences
 
