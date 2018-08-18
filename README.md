@@ -62,5 +62,5 @@ This is formula if we use only one alignment free descriptor. If z = 2, we will 
 ![step-3a](https://github.com/rezafaisal/ProteinSequenceClassificationProject/blob/master/images/08.JPG)
 
 This is formula if we use a combination of various alignment free descriptors. Beside variable z, we also have variable type. For example, z=2 and we use 2 descriptors: AAC & DC.
-![step-3b](https://github.com/rezafaisal/ProteinSequenceClassificationProject/blob/master/images/08.JPG)
+![step-3b](https://github.com/rezafaisal/ProteinSequenceClassificationProject/blob/master/images/09.JPG)
 
