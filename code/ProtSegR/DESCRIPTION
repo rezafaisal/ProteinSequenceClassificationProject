@@ -2,7 +2,7 @@ Package: ProtSegR
 Type: Package
 Title: Generating Segments and Numerical Representation Schemes for Protein Sequences
 Description: A Tool for generating feature numerical feature of a protein sequence 
-    from its generated additional segments as described in Mohammad Reza Faisal et al. (2017) 
+    from its generated additional segments as described in Mohammad Reza Faisal et al. (2018) 
     <DOI: 10.4236/jbise.2018.116012>.
 Version: 0.1.13
 Authors@R: c(
