@@ -8,14 +8,15 @@ To install the latest version on GitHub:
 devtools::install_github("rezafaisal/ProtSegR")
 ```
 
+## Description
 This package has 3 main functions:
 1. RemoveUnrecognizeAminoAcid.
 2. GenerateSegments.
 3. ConvertToFeatureRepresentation
 
-## RemoveUnrecognizeAminoAcid
+### RemoveUnrecognizeAminoAcid
 
-## GenerateSegments
+### GenerateSegments
 
-## ConvertToFeatureRepresentation
+### ConvertToFeatureRepresentation
 
